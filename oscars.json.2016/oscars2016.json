@@ -1,0 +1,780 @@
+{
+	"year": 2015,
+	"nominations": [
+	{
+		"category":{
+			"category_name": "Best Picture",
+			"nominees": [
+				{
+					"title": "The Big Short"
+				},
+				{
+					"title": "Bridge of Spies"
+				},
+				{
+					"title": "Brooklyn"
+				},
+				{
+					"title": "Mad Max: Fury Road"
+				},
+				{
+					"title": "The Martian"
+				},
+				{
+					"title": "The Revenant"
+				},
+				{
+					"title": "Room"
+				},
+				{
+					"title": "Spotlight"
+				}
+			]
+			}
+			},
+		{
+			"category":{
+				"category_name" : "Best Actor",
+				"nominees": [
+						{
+						"title": "Trumbo",
+						"person": " Bryan Cranston",
+						"role": "actor"
+					},
+					{
+						"title": "The Martian",
+						"person": "Matt Damon",
+						"role": "-1"
+					},
+					{
+						"title": "The Revenant",
+						"person": "Leonardo DiCaprio",
+						"role": "-1"
+					},
+					 {
+						"title": "Steve Jobs",
+						"person": "Michael Fassbender",
+						"role": "-1"
+					},
+				 {
+						"title": "The Danish Girl",
+						"person": "Eddie Redmayne",
+						"role": "-1"
+					}
+				]
+			}
+			},	
+		
+			{
+			"category":{
+				"category_name" : "Best Actor",
+				"nominees": [
+					{
+						"title": "Carol",
+						"person": "Cate Blanchett",
+						"role": "actress"
+					},
+					{
+						"title": "Room",
+						"person": "Brie Larson",
+						"role": "actress"
+					},
+					{
+						"title": "Joy",
+						"person": "Jennifer Lawrence",
+						"role": "actress"
+					},
+					{
+						"title": "45 Years",
+						"person": "Charlotte Rampling",
+						"role": "actress"
+					},
+					{
+						"title": "Brooklyn",
+						"person": "Saoirse Ronan",
+						"role": "actress"
+					}]
+		}
+		},
+		
+		
+			{
+			"category":{
+				"category_name" : "Supporting Actor",
+				"nominees": [
+					{
+						"title": "The Big Short",
+						"person": "Christian Bale",
+						"role": "actor"
+					},
+					{
+						"title": "The Revenant",
+						"person": "Tom Hardy",
+						"role": "actor"
+					},
+					{
+						"title": "Spotlight",
+						"person": "Mark Ruffalo",
+						"role": "actor"
+					},
+					{
+						"title": "Bridge of Spies",
+						"person": "Mark Rylance",
+						"role": "actor"
+					},
+					{
+						"title": "Creed",
+						"person": "Sylvester Stallone",
+						"role": "actor"
+					}
+				]}
+		},
+		
+		{
+			"category":{
+				"category_name" : "Supporting Actress",
+				"nominees": [
+					{
+						"title": "The Hateful Eight",
+						"person": "Jennifer Jason Leigh",
+						"role": "actress"
+					},
+					{
+						"title": "Carol",
+						"person": "Rooney Mara",
+						"role": "actress"
+					},
+					{
+						"title": "Spotlight",
+						"person": "Rachel McAdams",
+						"role": "actress"
+					},
+					{
+						"title": "Steve Jobs",
+						"person": "Kate Winslet",
+						"role": "actress"
+					},
+					{
+						"title": "The Danish Girl",
+						"person": "Alicia Vikander",
+						"role": "actress"
+					}
+				]}
+		},
+		
+					{
+			"category":{
+				"category_name" : "Directing",
+				"nominees": [
+					{
+						"title": "The Big Short",
+						"person": "Adam McKay",
+						"role": "director"
+					},
+					{
+						"title": "Mad Max: Fury Road",
+						"person": "George Miller",
+						"role": "director"
+					},
+					{
+						"title": "The Revenant", 
+						"person": "Alejandro G. Inarritur",
+						"role": "director"
+					},
+					{
+						"title": "Room",
+						"person": "Lenny Abrahamson",
+						"role": "director"
+					},
+					{
+						"title": "Spotlight",
+						"person": "Tom McCarthy",
+						"role": "director"
+					}]
+		}
+	},
+		
+					{
+			"category":{
+				"category_name" : "Foreign Language Film",
+				"nominees": [
+					{
+						"title": "Embrace of the Serpent",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Mustang",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Son of Saul",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Theeb",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "A War.",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Adapted Screenplay",
+				"nominees": [
+					{
+						"title": "The Big Short",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Brooklyn",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Carol",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Martian",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Room",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+					{
+"category":{
+				"category_name" : "Original Screenplay",
+				"nominees": [
+					{
+						"title": "Bridge of Spies",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Ex Machina",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Inside Out",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Spotlight",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Straight Outta Compton",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+					{
+"category":{
+				"category_name" : "Animated Feature",
+				"nominees": [
+					{
+						"title": "Anomalisa",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Boy and World",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Inside Out",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Shaun the Sheep Movie",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "When Marnie Was There",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+			{
+"category":{
+				"category_name" : "Production of Design",
+				"nominees": [
+					{
+						"title": "Bridge of Spies",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Danish Girl",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Mad Max: Fury Road",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Martian",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Revenant",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Cinematography",
+				"nominees": [
+					{
+						"title": "Carol",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Hateful Eight",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Mad Max: Fury Road",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Revenant",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Sicario",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Sound Mixing",
+				"nominees": [
+					{
+						"title": "Bridge of Spies",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Mad Max: Fury Road",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Martian",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Revenant",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Star Wars: The Force Awakens",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Sound Editing",
+				"nominees": [
+					{
+						"title": "Mad Max: Fury Road",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Martian",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Revenant",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Sicario",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Star Wars: The Force Awakens",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Original Score",
+				"nominees": [
+					{
+						"title": "Bridge of Spies",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Carol",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Hateful Eight",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Sicario",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Star Wars: The Force Awakens",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Original Song",
+				"nominees": [
+					{
+						"title": "Fifty Shades of Grey",
+						"person": "-1",
+						"song_title": "Earned It"
+					},
+					{
+						"title": "Racing Extinction",
+						"person": "-1",
+						"song_title": "Manta Ray"
+					},
+					{
+						"title": "Youth",
+						"person": "-1",
+						"song_title": "Simple Song #"
+					},
+					{
+						"title": "The Hunting Ground",
+						"person": "-1",
+						"song_title": "Til It Happens To You"
+					},
+					{
+						"title": "Spectre",
+						"person": "-1",
+						"song_title": "Writing's on the Wall"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Costume Design",
+				"nominees": [
+					{
+						"title": "Carol",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Cinderella",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Danish Girl",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Mad Max: Fury Road",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Revenant",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Documentary Feature",
+				"nominees": [
+					{
+						"title": "Amy",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Cartel Land",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Look of Silence",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "What Happened, Miss Simone?",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Winter on Fire: Ukraine's Fight for Freedom",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Documentary (short subject)",
+				"nominees": [
+					{
+						"title": "Body Team 12",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Chau, Beyond the Line",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Claude Lanzmann: Spectres of the Shoah",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "A Girl in the River: The Price of Forgiveness",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Last Day of Freedom",
+						"person": "-1",
+						"role": "-1"
+					}]
+			}
+		},
+		
+					{
+"category":{
+				"category_name" : "Film Editing",
+				"nominees": [
+					{
+						"title": "The Big Short",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Mad Max: Fury Road",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Revenant",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Spotlight",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Star Wars: The Force Awakens",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Makeup and Hairstyling",
+				"nominees": [
+					{
+						"title": "Mad Max: Fury Road",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The 100-Year-Old Man Who Climbed out the Window and Disappeared",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Revenant",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Animated Short Film",
+				"nominees": [
+					{
+						"title": "Bear Story",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Prologue",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Sanjay's Super Team",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "We Can't Live Without Cosmos",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "World of Tomorrow",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+		
+					{
+"category":{
+				"category_name" : "Live Action Short Film",
+				"nominees": [
+					{
+						"title": "Ave Maria",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Day One",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Everything Will Be Okay (Alles Wird Gut)",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Shok",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Stutterer",
+						"person": "-1",
+						"role": "-1"
+					}
+				]
+			}
+			},
+			{
+"category":{
+				"category_name" : "Visual Effects",
+				"nominees": [
+					{
+						"title": "Ex Machina",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Mad Max: Fury Road",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Martian",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "The Revenant",
+						"person": "-1",
+						"role": "-1"
+					},
+					{
+						"title": "Star Wars: The Force Awakens",
+						"person": "-1",
+						"role": "-1"
+				}
+				]
+			}
+			}
+		
+]}
+
+
+
+
