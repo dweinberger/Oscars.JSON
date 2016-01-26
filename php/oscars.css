@@ -1,0 +1,28 @@
+body{
+	font-family: "Helvetica Neue", Helvetica, Verdana, Arial, Sans;
+}
+#pagetitle{
+	font-size: 2em;
+	color: #3185C8;
+	font-weight: 650;
+}
+.category{
+	background-color: #D1DAE4;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	padding: 1em;
+}
+.cat_title{
+	font-size: 1.3em;
+	color: #3B0B7C;
+	font-weight: 600;
+}
+.nominee{
+}
+.person{
+	color: #2653FD;
+}
+.title{
+	color: #1C35E4;
+	font-style: italic;
+}
